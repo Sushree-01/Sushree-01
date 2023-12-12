@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **subhashree.payal2000@gmail.com**
 
+ - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1POnjd6UTJB6RqGiIUsx5AEmHEB7dossj/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhashree-sahoo-ba295b251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhashree-sahoo-ba295b251/" height="30" width="40" /></a>
